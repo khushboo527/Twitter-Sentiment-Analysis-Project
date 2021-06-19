@@ -1,5 +1,4 @@
-# Name
-Twitter-Sentiment-Analysis-Project
+# Twitter-Sentiment-Analysis-Project
 
 #Description 
 This project addresses the problem of sentiment analysis in twitter; that is classifying tweets according to the 
